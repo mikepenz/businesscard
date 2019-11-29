@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
   "name": "mikepenz",
+  "version": "1.0.2",
   "description": "Mike Penz (@mikepenz)'s business card",
   "main": "index.js",
   "bin": {
